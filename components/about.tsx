@@ -34,7 +34,7 @@ const About: NextPage<Props> = () => {
               objectFit='cover'
               height={"500px"}
               width={"500px"}
-              src='https://github.com/jeypzz/Porfolio/blob/master/DSC00096.JPG?raw=true'
+              src='https://github.com/jeypzz/Portfolio/blob/main/DSC00096.JPG?raw=true'
               alt='About Image'
             />
           </motion.div>
